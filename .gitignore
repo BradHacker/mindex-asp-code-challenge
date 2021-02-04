@@ -1,0 +1,6 @@
+# directories
+.vs
+obj
+bin
+._*
+.DS_Store
